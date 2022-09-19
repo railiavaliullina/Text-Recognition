@@ -24,6 +24,6 @@ File to run:
   
 ## Additional Information
 
-Parameters can be changes in:
+Parameters can be changed in:
 
     configs/
