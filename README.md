@@ -9,11 +9,11 @@
 
 2) Implementation of CTC Loss from `Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks` paper:
 
-  https://www.cs.toronto.edu/~graves/icml_2006.pdf
+        https://www.cs.toronto.edu/~graves/icml_2006.pdf
 
 3) Training imlemented Neural Network for text recognition task on Synthetic Word Dataset (MJSynth):
 
-    https://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth
+        https://www.robots.ox.ac.uk/~vgg/data/text/#sec-synth
 
 ## Getting Started
 
@@ -26,4 +26,4 @@ File to run:
 
 Parameters can be changes in:
 
-    configs/config.py 
+    configs/
