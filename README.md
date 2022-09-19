@@ -19,7 +19,7 @@
 
 File to run:
 
-    train/main.py
+    executor/executor.py
   
   
 ## Additional Information
