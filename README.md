@@ -19,7 +19,7 @@
 
 File to run:
 
-    executor/executor.py
+    trainers/trainer.py
   
   
 ## Additional Information
